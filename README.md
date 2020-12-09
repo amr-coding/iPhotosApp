@@ -1,5 +1,5 @@
 # iPhotosApp
 iPhotos application is a PHP developed application, iPhotos helps you organize all your images by uploading them to the application. Once all the images are uploaded they will be set in a new folder under the name of "assets". The image's name will contain the current date of uploading the images.
 
+![alt text](https://imgur.com/a/Ki2N499)
 
-https://imgur.com/a/Ki2N499
