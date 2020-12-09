@@ -1,0 +1,110 @@
+body {
+    background-color: #17191F;
+}
+
+#imgs {
+    margin-bottom: 15px;
+}
+
+.uploaded {
+    color: #00ff3a;
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: center
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #FFFFFF;
+    text-shadow: 1px 2px black;
+}
+
+.container {}
+
+.align {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    background: #3c424b;
+    border-radius: 6px;
+    box-shadow: 0 5px 15px 0 rgba(0, 0, 0, .5);
+    overflow: hidden;
+}
+
+.row1 {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+
+form {
+    padding: 10px;
+    margin: 15px;
+}
+
+.custom {
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.headText {
+    font-family: 'Lobster', cursive;
+    letter-spacing: 6px;
+}
+
+.submot {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.fas {
+    vertical-align: text-bottom;
+}
+.review{
+    box-shadow: 1px;
+}
+.close-btn{
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    z-index: 6;
+    font-size: x-large;
+    position: relative;
+    top: -10px;
+    color:#dcdcdc;
+        float: right;
+
+}
+.nav-img{
+        width: 50px;
+    height: 50px;
+}
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+    font-size: 27px;
+    color: #cddff3;
+}
+.navbar{
+    color:#fff
+    background-color:#7a92ab;
+}
+#w3review{
+    
+    width: 500px;
+}
+.form-control::after{
+    content:"hey"
+}
+#copy:hover{
+    color: yellow    
+}
+.made {
+    color: #fff;
+    display: flex;
+    justify-content: center
+}
